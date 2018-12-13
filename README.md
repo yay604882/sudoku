@@ -1,6 +1,9 @@
 # 开心数独，开心益智
 
-<font color=#00CED1	 size=18 face="微软雅黑">天天游艺,天天游戏,天天来抓鱼,欢乐无限,轻松简单,就等你了！</font>
+<font color=#00CED1	 size=18 face="微软雅黑"> 数独游戏玩法技巧：
+1、利用排除法先填可以确定数字的行或者列
+2、优先填空最少的行或者列
+</font>
 
 
 ![image](https://github.com/yay604882/sudokupng/blob/master/1.jpg)
